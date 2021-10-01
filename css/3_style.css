@@ -1,0 +1,10 @@
+body {
+    background-image: url("../img/3_Background.PNG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .grid-container {
+    color: white;
+  }
